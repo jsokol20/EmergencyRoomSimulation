@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\jacob\desktop\coding projects\emergencyroomsim\emergencyroomsim\simulation.h(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\desktop\coding projects\emergencyroomsim\emergencyroomsim\simulation.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\desktop\coding projects\emergencyroomsim\emergencyroomsim\simulation.h(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\desktop\coding projects\emergencyroomsim\emergencyroomsim\simulation.h(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\desktop\coding projects\emergencyroomsim\emergencyroomsim\simulation.h(120): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jacob\desktop\coding projects\emergencyroomsim\emergencyroomsim\simulation.h(141): warning C4018: '<': signed/unsigned mismatch
+  EmergencyRoomSim.vcxproj -> C:\Users\jacob\Desktop\Coding Projects\EmergencyRoomSim\Debug\EmergencyRoomSim.exe
+  EmergencyRoomSim.vcxproj -> C:\Users\jacob\Desktop\Coding Projects\EmergencyRoomSim\Debug\EmergencyRoomSim.pdb (Full PDB)
